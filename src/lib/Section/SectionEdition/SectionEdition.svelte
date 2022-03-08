@@ -40,6 +40,7 @@
             align-items: center;
             font-size: 18px;
             transition: border-color 250ms;
+            
             &:hover{
                 border-color: rgba(#133547,0.2);
             }

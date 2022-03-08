@@ -1,12 +1,6 @@
 <script lang="ts">
 import RichEditor from "$lib/RichEditor/RichEditor.svelte";
-
-
-
-    
-
     export let data
-
 </script>
 
 <div class="root">

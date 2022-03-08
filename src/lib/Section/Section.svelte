@@ -26,8 +26,7 @@
     }}
     on:mouseenter={()=>{
         mouseIn = true
-    }}
-    
+    }}    
 >
     {#if SectionEdition!==null && mouseIn}
         <svelte:component this={SectionEdition}
